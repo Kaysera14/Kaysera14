@@ -19,5 +19,5 @@ Soy Antonio Rondán (Kaysera), ¡bienvenido a mi perfil!.
 
 Actualmente estoy especializándome en mi carrera profesional como Web Developer🛜, siempre en continuo aprendizaje e intentando no sobresaturarme a mi mismo🤯.
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
